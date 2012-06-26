@@ -3,6 +3,8 @@ Codiqa Icon Packs for jQuery Mobile
 
 This project contains a growing set of icon packs meant for use in jQuery Mobile and other types of projects. Every icon pack comes with a regular and 2x size sprite sheet that supports high density displays (like iOS retina).
 
+Read more about these icons here: http://blog.codiqa.com/2012/06/announcing-new-icon-packs-for-awesome-app-designs/
+
 Unless specified otherwise, all icon packs are licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/) license. This means you are free to use these icon packs in both commercial and non-commercial settings, but you must attribute [Codiqa.com](http://codiqa.com/) and share any derivative works under the same or a similar license. All we ask is a link back to codiqa.com indicating that we provided the original version of the icons.
 
 Usage in jQuery Mobile Apps
